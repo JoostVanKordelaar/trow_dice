@@ -1,5 +1,9 @@
 {
+<<<<<<< Updated upstream
     "path": "~/throwdice",
+=======
+    "path": "~/GitHub/trow_dice/man",
+>>>>>>> Stashed changes
     "sortOrder": [
         {
             "columnIndex": 2,
