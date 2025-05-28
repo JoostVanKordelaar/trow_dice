@@ -1,7 +1,6 @@
-# throw two dice!
-#
-# This is a function that simulates that you throw two dice
-#
+#' add two dice rolls
+#' @details simulates two dice rolls and adds the results of the two rolls
+#' @export
 throw <- function() {
   # Simulate first roll
   die1 <- sample(1:6,1)
